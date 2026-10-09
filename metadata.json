@@ -1,0 +1,6 @@
+{
+  "name": "PHANTOM AI — Shadow AI Detector",
+  "description": "Network traffic telemetry analyzer and risk dashboard for detecting unauthorized Shadow AI endpoints, classifying data leakage risks, simulating block policies, and testing detection benchmarks for Team TECH TITANS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
